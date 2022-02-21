@@ -1,0 +1,86 @@
+{
+  "informations": {
+    "nom": "LHOSTE",
+    "prénom": "Pierre",
+    "phrase": "Stage",
+    "téléphone": "",
+    "age": "04/02/2000",
+    "ville": "pélissanne",
+    "mail": "vingt-douze@protonmail.com",
+    "site": "Pierre-LHOSTE.github.io",
+    "langues": [{
+      "langue": "français",
+      "note": "natal"
+    }, {
+      "langue": "anglais",
+      "note": "moyen"
+    }],
+    "interet": ["collection", "dessin", "jeux-vidéo", "développement"]
+  },
+  "parcours": [{
+    "date": "2019",
+    "sujet": "Bac scientifique",
+    "lieux": "Emperi Salon de Provence",
+    "status": "ok"
+  }, {
+    "date": "2022",
+    "sujet": "DUT GEII",
+    "lieux": "Aix-Marseille GEII Salon de Provence",
+    "status": "en cours"
+  }],
+  "competences": [{
+    "type": "logiciels",
+    "liste": [{
+      "nom": "photoshop",
+      "note": "8"
+    }, {
+      "nom": "Illustrator",
+      "note": "5"
+    }, {
+      "nom": "Git",
+      "note": "4"
+    }, {
+      "nom": "Atom",
+      "note": "8"
+    }, {
+      "nom": "Nodejs",
+      "note": "5"
+    }]
+  }, {
+    "type": "language",
+    "liste": [{
+      "nom": "javascript",
+      "note": "6"
+    }, {
+      "nom": "html",
+      "note": "8"
+    }, {
+      "nom": "css",
+      "note": "7"
+    }, {
+      "nom": "c",
+      "note": "5"
+    }, {
+      "nom": "VBNET",
+      "note": "6"
+    }, {
+      "nom": "VHDL",
+      "note": "5"
+    }, {
+      "nom": "Python",
+      "note": "6"
+    }, {
+      "nom": "PHP",
+      "note": "4"
+    }]
+  }, {
+    "type": "framework",
+    "liste": [{
+      "nom": "react",
+      "note": "6"
+    }, {
+      "nom": "electron",
+      "note": "6"
+    }]
+  }]
+}
